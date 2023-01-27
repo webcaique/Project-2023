@@ -1,0 +1,16 @@
+1° Projeto simples:
+Sistema de Gerenciamento de estoque em PHP
+
+Paleta de cores:
+Azul - para indicar confiança e segurança, ainda indicar a infidade que ele alcaça;
+Preto - Prestígio, algo que poucos podem ter, poder;
+Roxo - Luxo;
+Braco - transparência e nobreza;
+Laranja - Inovação
+** Possiveis idéias de cores para o site e o logotipo**
+
+Páginas:
+Página para cadastro de usuário (Dividida em estocador, gerente de preço, outras ideias)
+Página de login;
+Página de cadastro de produto e visualização dos mesmos;
+Página de alteração do produto, que vai ser gerenciado dependêndo do usuário.
